@@ -24,4 +24,4 @@ This Python script offers players a customized version of Battleship where they 
 
 ## Work in Progress
 
-Please note that this code and model are still under active development.
+Please note that this code and model are still under active development. Feel free to contribute or provide feedback to help make this project even better!
